@@ -1,1 +1,72 @@
-rre
+/* CSS muotoilut HTML_taulukko_kuvat */
+
+
+body {
+	background-color: #a67f30;
+}
+						
+p {
+    color: #570F27;
+    text-align: center;
+    font-family: Raleway;
+
+}
+
+h1 {
+	color: #1bb300;
+	background-color: black;
+	text-align: center;
+	font-family: arial;
+	font-size: 40px;
+}
+						
+h2 {
+	color: #1bb300;
+	background-color: black;
+	text-align: center;
+	font-family: arial;
+	font-size: 30px;
+}
+						
+h3 {
+	color: #1bb300;
+	background-color:black;
+	text-align: center;
+	font-family: arial;
+	font-size: 20px;
+}
+
+h4 {
+    color: #570F27;
+    text-align: center;
+    font-family: Raleway;
+
+}
+
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+.list {
+    color: #570F27;
+    text-align: center;
+    list-style-position: inside;
+    font-family: Raleway;
+}
+
+.center, th, td {
+border: 2px solid rgb(104, 104, 104);
+border-collapse: collapse;
+padding: 15px;
+font-size: 17px;
+font-family: Raleway;
+color: #570F27;
+text-align: center;
+background-color: #a67f30;
+margin-left: auto;
+margin-right: auto;
+}	
+						
+		
